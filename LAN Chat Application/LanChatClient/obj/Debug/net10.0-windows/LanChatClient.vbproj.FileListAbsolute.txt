@@ -1,0 +1,17 @@
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.ChatForm.resources
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.LoginForm.resources
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.vbproj.GenerateResource.cache
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.AssemblyInfoInputs.cache
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.AssemblyInfo.vb
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.vbproj.CoreCompileInputs.cache
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\bin\Debug\net10.0-windows\LanChatClient.exe
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\bin\Debug\net10.0-windows\LanChatClient.deps.json
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\bin\Debug\net10.0-windows\LanChatClient.runtimeconfig.json
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\bin\Debug\net10.0-windows\LanChatClient.dll
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\bin\Debug\net10.0-windows\LanChatClient.pdb
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.dll
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\refint\LanChatClient.dll
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.pdb
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\LanChatClient.genruntimeconfig.cache
+C:\Users\Mr. KMWB\RiderProjects\LanChatClient\obj\Debug\net10.0-windows\ref\LanChatClient.dll

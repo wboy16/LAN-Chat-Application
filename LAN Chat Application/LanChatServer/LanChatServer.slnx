@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../LanChatClient/LanChatClient.vbproj" />
+  <Project Path="LanChatServer.vbproj" />
+</Solution>
